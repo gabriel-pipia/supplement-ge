@@ -9,7 +9,7 @@
 
 **A modern, premium e-commerce mobile application for supplements and fitness products**
 
-[Live Demo](https://supplement-ge.netlify.app) • [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Project Structure](#-project-structure) • [Tech Stack](#-tech-stack)
+[Live Demo](https://supplement-ge.vercel.app) • [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Project Structure](#-project-structure) • [Tech Stack](#-tech-stack)
 
 </div>
 
